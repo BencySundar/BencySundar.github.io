@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is Bency Sundar page for Data Science
 
 ### More Information
 
